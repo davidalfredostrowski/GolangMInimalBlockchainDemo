@@ -1,0 +1,20 @@
+output: 
+
+
+
+
+
+
+
+this is our first Block
+	time: 2022-12-10 00:45:42.006780948 +0000 UTC m=+0.000048316
+	prevhash: 
+	hash: 4b81d7e0bca9e4d57ea8478a1ee144163d9614e1e76ad5734b0775972f69c4a9
+	Transactions: 
+		0: " A sent 50 coins to BC"
+This is our second block
+	time: 2022-12-10 00:45:42.007070166 +0000 UTC m=+0.000337536
+	prevhash: 4b81d7e0bca9e4d57ea8478a1ee144163d9614e1e76ad5734b0775972f69c4a9
+	hash: 918baf8b46c7476d2e54c34c6fda19c4040e3c1bd9f2c2e60a0724b369d449a9
+	Transactions: 
+		0: " PQ sent 230 coins to RS"
